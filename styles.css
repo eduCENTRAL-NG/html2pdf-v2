@@ -1,0 +1,56 @@
+
+/* styles.css */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 1rem;
+    background-color: #6b03ab;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #000;
+    margin: 10px 0;
+  }
+
+.sender-info{
+  text-align: end;
+}
+  h1, p {
+    color: #000000f8;
+  }
+  
+  header {
+    margin-bottom: 1rem;
+  }
+  
+  .logo img {
+    max-width: 5rem;
+  }
+  
+  main {
+    max-width: 50rem;
+    margin: 0 auto;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  #download-btn {
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #download-btn:hover,
+  #download-btn:focus {
+    background-color: #ddd;
+  }
+
+  
+
+  
